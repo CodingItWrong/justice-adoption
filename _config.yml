@@ -35,6 +35,15 @@ header_pages:
   - partner-with-us.md
   - donate-now.md
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "updates"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
