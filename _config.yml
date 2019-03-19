@@ -25,24 +25,32 @@ twitter_username: adopt_justice
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
 
-header_pages:
-  - questions.md
-  - contact-us.md
-  - partner-with-us.md
-  - donate-now.md
+navigation_header:
+  Updates: updates
+  Questions: questions
+  Contact Us: contact-us
+  Partner With Us: partner-with-us
+  Donate Now: donate-now
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      categories: "updates"
+navigation_footer:
+  Updates: updates
+  Questions: questions
+  Contact Us: contact-us
+  Partner With Us: partner-with-us
+  Donate Now: donate-now
+
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       categories: "updates"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
