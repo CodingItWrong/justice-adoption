@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
 
 navigation_header:
+  Home: /
   Updates: updates
   Questions: questions
   Contact Us: contact-us
