@@ -2,6 +2,8 @@
 title: Yard Sale Success
 ---
 
+![1](/images/updates/yard-sale/1.jpg)
+
 We want to thank everyone who contributed to our yard sale with donations or help. We raised $606.50!
 
 Above is a photo of some of our team who helped the day of the event.

@@ -1,13 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-# layout: home
+title: Home
 ---
 
 > “Do for one what you wish you could do for everyone.”
 
 - Andy Stanley
+
+![1](/images/home/1.jpg)
 
 ## Our Family
 
@@ -16,6 +15,8 @@ For those who may not know us, we are Josh and Jennifer Justice. We have been ma
 We hope to add to our family soon by adopting an African-American baby boy. The girls are excited about having a baby brother!
 
 [Questions You May Have →](questions)
+
+![2](/images/home/2.jpg)
 
 ## Where We Are
 
@@ -30,3 +31,5 @@ Financial responsibility is important to us, which is why we are saving and fund
 We want to be transparent with you about each step of the process. This website gives you the basics of the journey. If you would like to receive updates with more details, you can partner with us by connecting on social media or our email list.
 
 [Partner With Us →](partner-with-us)
+
+![3](/images/home/3.jpg)

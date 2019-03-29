@@ -6,6 +6,8 @@ title: Questions
 
 — 1 John 4:19, NIV
 
+![1](/images/questions/1.jpg)
+
 ## Why adoption?
 
 Our heart for adoption is born out of gratitude to God for loving us and pursuing us when we were powerless to offer Him anything. Since our dating days, we have shared an openness to the possibility of adopting in our family. God has blessed us with two biological children, and as far as we know, we could have more. But over the past year, God unexpectedly started us on a journey to adopt when we next add to our family.
@@ -27,6 +29,8 @@ This challenge applies to every child needing a home, but we feel God has specif
 We know not every woman has access to a loving community to walk beside her through pregnancy, but we do know there are organizations and ministries filled with people who provide that community for many women every day. For our adoption, we hope to use an adoption consultant, [Faithful Adoption Consultants](https://www.faithfuladoptionconsultants.com/), out of Atlanta, GA. FAC works with agencies and attorneys across the United States, and their passion is for both birth families and adoptive families to be loved and cared for throughout the adoption process.
 
 Every situation is different so our family may or may not directly interact with the expectant mom through her pregnancy, but there will be people surrounding her to support her in many ways. Our adoption costs allow this community to provide medical, financial, and emotional support throughout the expectant mother’s pregnancy, as well as pre- and post-birth counseling. Depending on the situation, adoption funds may also provide housing, transportation, food, clothing, or assistance with other children.
+
+![2](/images/questions/2.jpg)
 
 ## Why African-American?
 
