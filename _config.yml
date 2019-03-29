@@ -31,18 +31,19 @@ plugins:
 
 navigation_header:
   Home: /
-  Updates: updates
-  Questions: questions
-  Contact Us: contact-us
-  Partner With Us: partner-with-us
-  Donate Now: donate-now
+  Updates: /updates/
+  Questions: /questions/
+  Contact Us: /contact-us/
+  Partner With Us: /partner-with-us/
+  Donate Now: /donate-now/
 
 navigation_footer:
-  Updates: updates
-  Questions: questions
-  Contact Us: contact-us
-  Partner With Us: partner-with-us
-  Donate Now: donate-now
+  Home: /
+  Updates: /updates/
+  Questions: /questions/
+  Contact Us: /contact-us/
+  Partner With Us: /partner-with-us/
+  Donate Now: /donate-now/
 
 # defaults:
 #   -
