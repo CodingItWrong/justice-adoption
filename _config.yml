@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adopt_justice
 google_analytics: 'UA-107285630-1'
 port: 4004
+service_worker: false
 
 # Build settings
 markdown: kramdown
